@@ -1,0 +1,18 @@
+{
+  "name": "terraform-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "serverless-bundle test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "offline": "0.0.1",
+    "serverless": "^1.61.1",
+    "serverless-bundle": "^1.2.5",
+    "serverless-offline": "^5.12.1"
+  }
+}
